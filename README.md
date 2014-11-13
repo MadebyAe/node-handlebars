@@ -1,4 +1,4 @@
-express-handlebars
+node-handlebars
 ==================
 
 Nodejs Handlebars with helpers

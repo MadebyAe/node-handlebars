@@ -1,5 +1,5 @@
 {
-  "name": "express-handlebars",
+  "name": "node-handlebars",
   "version": "0.9.0",
   "description": "Nodejs Handlebars with helpers",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:MadebyAe/express-handlebars.git"
+    "url": "git@github.com:MadebyAe/node-handlebars.git"
   },
   "keywords": [
     "handlebars",
@@ -28,7 +28,7 @@
   "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MadebyAe/express-handlebars/issues"
+    "url": "https://github.com/MadebyAe/node-handlebars/issues"
   },
-  "homepage": "https://github.com/MadebyAe/express-handlebars"
+  "homepage": "https://github.com/MadebyAe/node-handlebars"
 }

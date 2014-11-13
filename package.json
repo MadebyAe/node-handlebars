@@ -1,0 +1,34 @@
+{
+  "name": "express-handlebars",
+  "version": "0.9.0",
+  "description": "Nodejs Handlebars with helpers",
+  "main": "index.js",
+  "dependencies": {
+    "promise": "~6.0.1",
+    "semver": "~3.0.1",
+    "graceful-fs": "~3.0.4",
+    "handlebars": "~2.0.0",
+    "glob": "~4.0.6",
+    "path": "^0.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MadebyAe/express-handlebars.git"
+  },
+  "keywords": [
+    "handlebars",
+    "node",
+    "express",
+    "helpers"
+  ],
+  "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadebyAe/express-handlebars/issues"
+  },
+  "homepage": "https://github.com/MadebyAe/express-handlebars"
+}

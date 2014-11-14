@@ -9,7 +9,8 @@
     "graceful-fs": "~3.0.4",
     "handlebars": "~2.0.0",
     "glob": "~4.0.6",
-    "path": "^0.4.9"
+    "path": "^0.4.9",
+    "html-minifier": "^0.6.9"
   },
   "devDependencies": {},
   "scripts": {

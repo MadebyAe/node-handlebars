@@ -12,7 +12,10 @@
     "path": "^0.4.9",
     "html-minifier": "^0.6.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "vows": "^0.8.0",
+    "assert": "^1.1.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,10 +1,10 @@
 'use strict';
 
-var ExpressHandlebars = require('./lib/node-handlebars');
+var NodeHandlebars = require('./lib/node-handlebars');
 
 exports = module.exports  = exphbs;
 exports.create            = create;
-exports.ExpressHandlebars = ExpressHandlebars;
+exports.NodeHandlebars = NodeHandlebars;
 
 // -----------------------------------------------------------------------------
 
@@ -13,5 +13,5 @@ function exphbs(config) {
 }
 
 function create(config) {
-    return new ExpressHandlebars(config);
+    return new NodeHandlebars(config);
 }

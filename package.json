@@ -1,6 +1,6 @@
 {
   "name": "node-handlebars",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Nodejs Handlebars with helpers",
   "main": "index.js",
   "dependencies": {
@@ -10,11 +10,7 @@
     "handlebars": "~2.0.0",
     "glob": "~4.0.6",
     "path": "^0.4.9",
-    "html-minifier": "^0.6.9"
-  },
-  "devDependencies": {
-    "vows": "^0.8.0",
-    "assert": "^1.1.2"
+    "minimize": "^0.10.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

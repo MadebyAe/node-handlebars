@@ -1,12 +1,9 @@
-var fs              = require("fs");
-var handlebars      = require("..");
-var vows            = require("vows");
-var assert          = require("assert");
+var handlebars      = require("../index");
 // ======================================== 
 // ! Global
 // ========================================
 
-var hbs = handlebars.create();
+var hbs = handlebars.create({partialsDir :__dirname});
 
 hbs.engine(__dirname + "/test.html", {name:"Jakob"}, function(err, html) {
   if (err) {

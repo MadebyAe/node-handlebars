@@ -12,7 +12,7 @@ npm install node-handlebars
 
 ```
 
-** Use **
+**Use**
 
 ```
 var handlebars = require("node-handlebars");
@@ -30,7 +30,7 @@ hbs.engine(__dirname + "/test.html", {name:"Jakob"}, function(err, html) {
  
 ```
 
-** Options **
+**Options**
 
 | **key**      | **value** | **default**          | **required**  |
 | :-:          | :-:       | :-:                  | :-:           |
@@ -39,7 +39,7 @@ hbs.engine(__dirname + "/test.html", {name:"Jakob"}, function(err, html) {
 | layoutDir    | string    | "views"              | optional      |
 | partialDir   | string    | "views/partials"     | optional      |
 
-** Quick example **
+**Quick example**
 
 Raw file index.html:
 
@@ -65,11 +65,11 @@ Result index.html:
 ```
 
 
-** Contributing **
+**Contributing**
 
 WIP  
 
-** Showcasing **
+**Showcasing**
 
 APDB
 

@@ -1,6 +1,6 @@
 {
   "name": "node-handlebars",
-  "version": "0.9.2",
+  "version": "0.9.4",
   "description": "Nodejs Handlebars with helpers",
   "main": "index.js",
   "dependencies": {

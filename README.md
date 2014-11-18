@@ -5,7 +5,7 @@ Nodejs Handlebars with helpers.
 
 ---
 
-** Install **
+**Install**
 
 ```
 npm install node-handlebars

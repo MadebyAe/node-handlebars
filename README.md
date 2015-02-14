@@ -64,6 +64,10 @@ Result index.html:
  
 ```
 
+**Upcoming features**
+
+* Command Line Interface
+* Dynamic partials
 
 **Contributing**
 

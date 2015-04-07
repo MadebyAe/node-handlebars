@@ -35,9 +35,9 @@ hbs.engine(__dirname + "/test.html", {name:"Jakob"}, function(err, html) {
 | **key**      | **value** | **default**          | **required**  |
 | :-:          | :-:       | :-:                  | :-:           |
 | extension    | string    | ".hbs"               | optional      |
-| compress     | bool      | false                | optional      |
+| minimize     | bool      | true                | optional      |
 | layoutDir    | string    | "views"              | optional      |
-| partialDir   | string    | "views/partials"     | optional      |
+| partialsDir   | string    | "views/partials"     | optional      |
 
 **Quick example**
 
